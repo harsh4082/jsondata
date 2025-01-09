@@ -1,0 +1,5132 @@
+[
+    {
+        "Name": "Mary Alex",
+        "Batch": "1982",
+        "Department": "BA"
+    },
+    {
+        "Name": "Vijay Dube",
+        "Batch": "1982",
+        "Department": "BA"
+    },
+    {
+        "Name": "Jagdish D. Sharma",
+        "Batch": "1982",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Rajshekhar Shetty",
+        "Batch": "1982",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sanjay P. Coondapur",
+        "Batch": "1982",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Alka Vijay (Bakhru)",
+        "Batch": "1982",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Mukesh Makawana",
+        "Batch": "1982",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Pramod Duvedi",
+        "Batch": "1982",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Saroj Chawla ",
+        "Batch": "1982",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sudhir Avhad",
+        "Batch": "1982",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sunita Nanda Rai",
+        "Batch": "1983",
+        "Department": "BA"
+    },
+    {
+        "Name": "Mukesh H.Shah",
+        "Batch": "1983",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Rohan Phatak",
+        "Batch": "1983",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Varghese Idikula",
+        "Batch": "1984",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Hemlata Nagdev",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Jagdish Shigwan",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Punjabi (Deepa)  Hiroo",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Robinson R",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Saroj Mishra",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Smita Pendurkar",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Suman k. Goyal",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Tabassum Reshamula ",
+        "Batch": "1984",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Varsha Jagdish Ahuja",
+        "Batch": "1984",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Ravi Shyam Bhatia",
+        "Batch": "1985",
+        "Department": "BA"
+    },
+    {
+        "Name": "Ahmed Hussain Sheikh",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Bherulal Roshanlal Jain",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Khanna Swati",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Maruti Mishra",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Pooja Sharma",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Vinod Kumar Singh",
+        "Batch": "1985",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Yojana Singh",
+        "Batch": "1985",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Padma Kinger",
+        "Batch": "1986",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ram Lalchand Wadhwa",
+        "Batch": "1986",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jayula Sarnaik",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Nevil Kavarana",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Padmaja Purandare",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Pramod Ghosh ",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Shashi Jagdish Sharma",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Shyamsunder Singh",
+        "Batch": "1986",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sanjay Sanghvi",
+        "Batch": "1986",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Priya Vinay Rajwade",
+        "Batch": "1987",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Dennis Thomas",
+        "Batch": "1987",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Sanjeev VAsant Yadav",
+        "Batch": "1987",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Pravin Pyarali Dawoodani ",
+        "Batch": "1989",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Ratna Pawan",
+        "Batch": "1989",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Raju Bambure",
+        "Batch": "1989",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Savita Virendra Sonasaria",
+        "Batch": "1989",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sofia Chand Patel",
+        "Batch": "1989",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Anita Kanwar",
+        "Batch": "1989",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Bhupinder Singh Sahmbi",
+        "Batch": "1990",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Hemi Nirmal Khanchandani",
+        "Batch": "1990",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Gayatri Balasubranium",
+        "Batch": "1992",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Soni Prakash Chandra",
+        "Batch": "1992",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Hirani Deepa",
+        "Batch": "1992",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Patole Sunita Dadu",
+        "Batch": "1993",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Babita Banwarilal Joshi",
+        "Batch": "1993",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ashok Kumar Ramchandranagar",
+        "Batch": "1993",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Manisha Mansing Kurlekar",
+        "Batch": "1994",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Usha chawla ",
+        "Batch": "1994",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Subhojit Sen",
+        "Batch": "1994",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Suman Kalyani ",
+        "Batch": "1994",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Mahabale Vaijayanti Vithal",
+        "Batch": "1995",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Avinash Singh Rainu ",
+        "Batch": "1995",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jyoti Agarwal",
+        "Batch": "1995",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sandeep",
+        "Batch": "1995",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Mohan Singh Negi",
+        "Batch": "1995",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Sunil Ojha",
+        "Batch": "1995",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Ajit Singh Dhadwal",
+        "Batch": "1996",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Razia Begum",
+        "Batch": "1997",
+        "Department": "BA"
+    },
+    {
+        "Name": "Leena K Kaiser ",
+        "Batch": "1997",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Milind Kumar Singh ",
+        "Batch": "1997",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vandana Mirchandani",
+        "Batch": "1997",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Bhima Samatha Subrahmanyam",
+        "Batch": "1997",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sayantan Barat",
+        "Batch": "1997",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Uma Sanghai",
+        "Batch": "1997",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Vaibhav Rasam",
+        "Batch": "1997",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Preethi V Nair",
+        "Batch": "1997",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Gulzu Kataria Kapoor",
+        "Batch": "1997",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sunita Mishra",
+        "Batch": "1998",
+        "Department": "BA SOCIO"
+    },
+    {
+        "Name": "Nitha S Pujari",
+        "Batch": "1998",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Charles John Andrade ",
+        "Batch": "1998",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Krishnarao Balasaheb Ingale",
+        "Batch": "1998",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Ramchandra Naphde",
+        "Batch": "1998",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Bhaskar Parma",
+        "Batch": "1999",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Santosh Kabburkar",
+        "Batch": "1999",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ishral Mirza Anwar",
+        "Batch": "1999",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Swati R Akella",
+        "Batch": "2000",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Katumbh Shamji Hamir ",
+        "Batch": "2000",
+        "Department": "BA SOCIO"
+    },
+    {
+        "Name": "Kanchan Subhash Upadhyay ",
+        "Batch": "2000",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Manu Gracyvila Mathew ",
+        "Batch": "2000",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Pralhad Sati",
+        "Batch": "2000",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sumedh Madhukar Rokade",
+        "Batch": "2000",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Akshay Arun Bapat",
+        "Batch": "2000",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Subodh Mantha ",
+        "Batch": "2000",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Kamlesh S Sawant",
+        "Batch": "2000",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Rakesh Kumar Mishra",
+        "Batch": "2000",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sonal.D.Jondhale",
+        "Batch": "2000",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Umesh Shetty",
+        "Batch": "2000",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Ajay K Jani ",
+        "Batch": "2000",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Lalit Sharma",
+        "Batch": "2000",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Samir Sambart",
+        "Batch": "2000",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Meeta Girish Kulkarni",
+        "Batch": "2000",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Panchal Anagha Chandrakant",
+        "Batch": "2000",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Pranay Muralidhar Mhatre",
+        "Batch": "2000",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Richa Dinesh Shah",
+        "Batch": "2000",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Alpa Sharan Reshamwala",
+        "Batch": "2001",
+        "Department": "BA"
+    },
+    {
+        "Name": "Anil Shriram Thapar",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Gerald joseph Dalmeido",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sahif Mazgaonkar",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Swapna Shetty",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vaishali Kamble",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vinod Narayandas Hassija",
+        "Batch": "2001",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Faith Havilah Rose Sen",
+        "Batch": "2001",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Meenakshi Dubey",
+        "Batch": "2001",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Winston Dsouza",
+        "Batch": "2001",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Charamble Rebecca Reuben ",
+        "Batch": "2001",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Nitin Machhindra Kamble",
+        "Batch": "2001",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Ajay P Mirgh",
+        "Batch": "2002",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Amardeep Singh",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Brijesh Kumar",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jayan G Nair",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Nikhil Vala",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Paramjeet Singh Arora",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Pranesh Suresh Suvarna",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Reshma Jaishriram Yadav",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ritesh Parswani",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sandhya Nirmal Kantha Reddy",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Santosh Kadam",
+        "Batch": "2002",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Amit Kumar Jha",
+        "Batch": "2002",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Rakesh Surve",
+        "Batch": "2002",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Geeta Shinde",
+        "Batch": "2002",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Padmaja Purandare",
+        "Batch": "2002",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rupali Kumbhar ",
+        "Batch": "2002",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Sandeep Fatangare",
+        "Batch": "2002",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Anil Kumar",
+        "Batch": "2002",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Karabi Chakaraborty",
+        "Batch": "2002",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Seema Bhagwan Singh",
+        "Batch": "2003",
+        "Department": "BA ECO"
+    },
+    {
+        "Name": "Gunwant Kaur Matharu",
+        "Batch": "2003",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Harsha Madan Rajpal",
+        "Batch": "2003",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kanchana Suresh Rai ",
+        "Batch": "2003",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Margaret Stronach ",
+        "Batch": "2003",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shashikala Prakash Bhosale",
+        "Batch": "2003",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Naik Vishal",
+        "Batch": "2003",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Verma shailesh karishma",
+        "Batch": "2003",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rajashree Dey",
+        "Batch": "2003",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Meghna Krishna Petkar",
+        "Batch": "2003",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Neelam Virendra Kumbhar",
+        "Batch": "2003",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Aparna Roy ",
+        "Batch": "2003",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Akshay Mirchandani",
+        "Batch": "2004",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Arun G Vats",
+        "Batch": "2004",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Daulat Wadhwa",
+        "Batch": "2004",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Divya Bhaskar Shetty",
+        "Batch": "2004",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Namita Bhosale ",
+        "Batch": "2004",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Nilesh Ojha",
+        "Batch": "2004",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Foram Narendra Sanghni",
+        "Batch": "2004",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Makkar Nuitisha Neriv",
+        "Batch": "2004",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sanglikar Jyotsana Shankar",
+        "Batch": "2004",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Prabhazeet Saine",
+        "Batch": "2004",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Kavitha Ramachandran",
+        "Batch": "2004",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Animesh Matty",
+        "Batch": "2004",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Banerjee Rishiraj",
+        "Batch": "2005",
+        "Department": "BA ECO+COM"
+    },
+    {
+        "Name": "Vaibhav Suhas Bedekar ",
+        "Batch": "2005",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Gaurav Anil Ketkar",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jagtap Rahul Chandrakant",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Monterio Daniel Joseph",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Rahul Keshav More",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Satish Benimadhav Dwivedi ",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shetty Rajesh Suresh",
+        "Batch": "2005",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Anuradha Rohra",
+        "Batch": "2005",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rahul Nanda ",
+        "Batch": "2005",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Saleel Pai",
+        "Batch": "2005",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Tarun P Gangwani",
+        "Batch": "2005",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Vanish Raja Talreja ",
+        "Batch": "2005",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Kapil Ramesh Nichani",
+        "Batch": "2005",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Manisha Girish Chandra Bhatt",
+        "Batch": "2005",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Prasad rao",
+        "Batch": "2005",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Chetan Prahlad Bali",
+        "Batch": "2005",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Ramchandran Jibu K ",
+        "Batch": "2005",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Mohammad Asif Tayyab",
+        "Batch": "2005",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Linson Mathai",
+        "Batch": "2005",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Singh  Damanjeet CHaranjeet  ",
+        "Batch": "2005",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Kavita Rajendra Tripathi ",
+        "Batch": "2005",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Vibha Ravi Kumar",
+        "Batch": "2005",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Tarannum Mukadam",
+        "Batch": "2005",
+        "Department": "MSC"
+    },
+    {
+        "Name": "Mohmd Sohail Khokar",
+        "Batch": "2005",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Mujawar Babar Khan ",
+        "Batch": "2005",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Deepali Shinde",
+        "Batch": "2006",
+        "Department": "BA"
+    },
+    {
+        "Name": "Aasha Prabhu",
+        "Batch": "2006",
+        "Department": "BA ECO"
+    },
+    {
+        "Name": "Shivang Chhabra",
+        "Batch": "2006",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Deepak Janrao Kirpane",
+        "Batch": "2006",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Keshaw Sone",
+        "Batch": "2006",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sayyed Irfan Rizvi ",
+        "Batch": "2006",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Swati sharma",
+        "Batch": "2006",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Chetan Naik",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Dishika Tandon",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Jyoti Harbanshingh Kamboj ",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Jyoti Valecha ",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Tanvi Atul Mehta",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Vineeta Talreja Vaswani",
+        "Batch": "2006",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Alpesh Prabhakar Pawar",
+        "Batch": "2006",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Azmina A.K. Masurkar",
+        "Batch": "2006",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sur Roy Binita",
+        "Batch": "2006",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Vidya Prasad Lakshmi",
+        "Batch": "2006",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Deepika Jain ",
+        "Batch": "2006",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rohit Suresh Malkani",
+        "Batch": "2006",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Nikhil Toshniwal",
+        "Batch": "2006",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Tervankar Anagha Ramchandra",
+        "Batch": "2006",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vishal Shroff",
+        "Batch": "2006",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vishal Shroff",
+        "Batch": "2006",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Patil Nilesh Vasant",
+        "Batch": "2006",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Sarkar Arpita",
+        "Batch": "2007",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Anilkumar Hemraj Khatri",
+        "Batch": "2007",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Anthony Livinson",
+        "Batch": "2007",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kavita khatri",
+        "Batch": "2007",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Pinderjit Kaur Pallah",
+        "Batch": "2007",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vashistha Saurabh",
+        "Batch": "2007",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Anushka Danp",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Desai Ankita ",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Girish Lachmandas Makhija",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Makhija Karan",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Mansharamani Sakshi",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shinde Bhushan",
+        "Batch": "2007",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Pradeep Bhanudas Rajguru",
+        "Batch": "2007",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Amit Pakash Patil",
+        "Batch": "2007",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Shagun Verma ",
+        "Batch": "2007",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Dr. Pratiksha Alaag ",
+        "Batch": "2007",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Manasi Mantri",
+        "Batch": "2007",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Qamar jahan mahd yunus shaikh",
+        "Batch": "2007",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Pallavi Vishwanath Nayak",
+        "Batch": "2007",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Rubina Matin Shaikh",
+        "Batch": "2007",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Jishnu Debnath",
+        "Batch": "2007",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Divya Sridharan Iyer",
+        "Batch": "2007",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Meera Bhadra",
+        "Batch": "2008",
+        "Department": "BA"
+    },
+    {
+        "Name": "Sonal Ashok Barve",
+        "Batch": "2008",
+        "Department": "BA"
+    },
+    {
+        "Name": "Gupta Neelam Gopaldas",
+        "Batch": "2008",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sachin Karan Singh Dahiya",
+        "Batch": "2008",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Aniket Gupta",
+        "Batch": "2008",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Khusboo James Dsilva",
+        "Batch": "2008",
+        "Department": "BMM"
+    },
+    {
+        "Name": "S. Vijay Krishnan",
+        "Batch": "2008",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sankett Jagdish Thakker",
+        "Batch": "2008",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shweta Jagdish Vaswani ",
+        "Batch": "2008",
+        "Department": "BMM"
+    },
+    {
+        "Name": "khalsa mahinder singh",
+        "Batch": "2008",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Kunal Lalwani",
+        "Batch": "2008",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Tarun Rameshchand Sahu",
+        "Batch": "2008",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Memda Ashok Mansha",
+        "Batch": "2008",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Nair Renuka Chandran ",
+        "Batch": "2008",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sapana Saran",
+        "Batch": "2008",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Savita Rajpal",
+        "Batch": "2008",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Varghese Praveen",
+        "Batch": "2008",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sarika Tilwani ",
+        "Batch": "2008",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Shruti Raju",
+        "Batch": "2008",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Singh Shubhangi",
+        "Batch": "2008",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Riddhi Kaushal",
+        "Batch": "2008",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Khushbu Bhayani",
+        "Batch": "2008",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Rajni Ayyappa Kandalli ",
+        "Batch": "2008",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Kiran Krishna Rao ",
+        "Batch": "2008",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Suman Ganger",
+        "Batch": "2008",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Chamal Kushboo Rajesh ",
+        "Batch": "2009",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Sonam Sarvemittar Gupta",
+        "Batch": "2009",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Anusuya Sanjay Yadav",
+        "Batch": "2009",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Aakansha Shirsat",
+        "Batch": "2009",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Neeta Shrikant Pandey",
+        "Batch": "2009",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Kochar Mohit R",
+        "Batch": "2009",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Pooja Mallaprabhu Shinde ",
+        "Batch": "2009",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Triupti Hemchandra Patil",
+        "Batch": "2009",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Aditya Joshi",
+        "Batch": "2009",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Nair Rahul",
+        "Batch": "2009",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rajdeep Rajesh singh",
+        "Batch": "2009",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Amar Hete",
+        "Batch": "2009",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Prabhu Balu Vanniyar",
+        "Batch": "2009",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sanjukta Mitra ",
+        "Batch": "2009",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sushant Sadashiv Musale",
+        "Batch": "2009",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Swati Singh",
+        "Batch": "2009",
+        "Department": "MSC"
+    },
+    {
+        "Name": "Mandeep Kaur S Randhava",
+        "Batch": "2010",
+        "Department": "BA"
+    },
+    {
+        "Name": "Mayuri R Pancholi",
+        "Batch": "2010",
+        "Department": "BA"
+    },
+    {
+        "Name": "Deepa Gopaldas Manuja",
+        "Batch": "2010",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Gurjit Kaur Dhami ",
+        "Batch": "2010",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kothari Herat Bhupendra",
+        "Batch": "2010",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Abhishej Chandran",
+        "Batch": "2010",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shifa Alnasir Thakur",
+        "Batch": "2010",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Farheen Mushtaq Moin ",
+        "Batch": "2010",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Neha Meharali Mirajkar",
+        "Batch": "2010",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rana Bijnesh Bikramchand",
+        "Batch": "2010",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rasam Viraj",
+        "Batch": "2010",
+        "Department": "BSC"
+    },
+    {
+        "Name": "S.k.saravana",
+        "Batch": "2010",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Shelar Shree",
+        "Batch": "2010",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sneha Ramesh",
+        "Batch": "2010",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Suhita Salgaonakar",
+        "Batch": "2010",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Meenakshi Jaikrishnan Iyer",
+        "Batch": "2010",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Vipul Mhatre",
+        "Batch": "2010",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Deepali Tulsidas Nagdeep",
+        "Batch": "2010",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Pooja Sheoprasad Sharma",
+        "Batch": "2010",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Shoibur Rehman Abdul Rehman Ansari",
+        "Batch": "2010",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Jana Poonam Sushil",
+        "Batch": "2010",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Gowda Anitha Ramu",
+        "Batch": "2010",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Harale Geetanjali",
+        "Batch": "2010",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Jyoti Singhadiya",
+        "Batch": "2010",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sufiyan Yusuf Shaikh",
+        "Batch": "2011",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Ashwini Shrikrishna Ital",
+        "Batch": "2011",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Jharna Prakash Makhijani",
+        "Batch": "2011",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Ghadge Virshali Sunil",
+        "Batch": "2011",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Heenal Chandurkar",
+        "Batch": "2011",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Bevdekar Nikhil Nandkishor",
+        "Batch": "2011",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Neelam Navratan Soni ",
+        "Batch": "2011",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Punam Biswas",
+        "Batch": "2011",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Rohit Beria ",
+        "Batch": "2011",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Kartik Menon ",
+        "Batch": "2011",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Nikhil Chadrakant Mahajan",
+        "Batch": "2011",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Harsh Damania",
+        "Batch": "2011",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Jangle Nisha Vithal ",
+        "Batch": "2011",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sail Abhijit Anil",
+        "Batch": "2011",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sajwan Pramod Chandarsingh",
+        "Batch": "2011",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Thakur Nikita Nirmal",
+        "Batch": "2011",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Gupta Ankush",
+        "Batch": "2011",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Kamath Kshama ",
+        "Batch": "2011",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Mrudula Vilas Pawar",
+        "Batch": "2011",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Shehnaz Abbasi",
+        "Batch": "2011",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Tulika Bhanbani ",
+        "Batch": "2011",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Jessica john sutkatti",
+        "Batch": "2011",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Roma Ahuja",
+        "Batch": "2012",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Ajinkya Anil Dixit ",
+        "Batch": "2012",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Mahesh Patel ",
+        "Batch": "2012",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Patil Rahul Dinkar",
+        "Batch": "2012",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Singh Jayprakash",
+        "Batch": "2012",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Rohit M Bhatia",
+        "Batch": "2012",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Ankita Gopal Banerjee",
+        "Batch": "2012",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rashmi Rajwani",
+        "Batch": "2012",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Neeraj Rajpal",
+        "Batch": "2012",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Pradeep Lachhu Punjabi",
+        "Batch": "2012",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Chumbar Jasbir Kaur",
+        "Batch": "2012",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Chaitanaya Magar",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Mallika V Mannadiar",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Meghna Khandelwal",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Priya Gurunath Sawant ",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sneha Anil Pathak",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sneha Subramanian",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Upasana Singh",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Jesyma Nasir Fathima",
+        "Batch": "2012",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Ashwadi Raju Pillai",
+        "Batch": "2012",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Smitraj Raut",
+        "Batch": "2012",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Abhishek Mate",
+        "Batch": "2012",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Anurag Shrivastav",
+        "Batch": "2012",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rohan Vilas",
+        "Batch": "2012",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Bhavika Dilip Parmar",
+        "Batch": "2012",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sushmita Panda",
+        "Batch": "2012",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Tushar Malhotra",
+        "Batch": "2012",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Gunjan Vijay Dwivedi",
+        "Batch": "2012",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Varsha Sunil Ramnani",
+        "Batch": "2012",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Rojekar Sanjay Namdeo",
+        "Batch": "2012",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Lathe Deepali Sidappa",
+        "Batch": "2012",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Adkathabail Riya Abhas",
+        "Batch": "2013",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Pooja Hemraj Sharma",
+        "Batch": "2013",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Rajpal Rohit Raju",
+        "Batch": "2013",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Roshni D Sachdev",
+        "Batch": "2013",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Chandini Chandru Sajnani ",
+        "Batch": "2013",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shingoni Devika Raju",
+        "Batch": "2013",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ilyas Naif",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Jadhav Aditya",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Kumar Khushboo",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rowain Pereira ",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Surve Prashad",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Tavinder Singh Ralmilay",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Vinit Ramesh Sahatiya",
+        "Batch": "2013",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Abhishek Gupta",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Chirag Pagaria",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Chiranjeev Karkera",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Drumil Upadhyay",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Khimnani Divya Gulab",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Nikhil Mhatre",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Samarth Nebhani",
+        "Batch": "2013",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Nitesh Jayprakash Dubey",
+        "Batch": "2013",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Pradnya Bhanudas Sawant",
+        "Batch": "2013",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Barkha Ramnani ",
+        "Batch": "2013",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Trupti Ashok Devale ",
+        "Batch": "2013",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Ankita Mahesh Mehta",
+        "Batch": "2013",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Asalkar Devidas Mihir",
+        "Batch": "2013",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Ganesh Anandraj",
+        "Batch": "2013",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Neha Ashok Sahani",
+        "Batch": "2013",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Pooja Ramesh Mengaji",
+        "Batch": "2013",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Jadhav Ankita",
+        "Batch": "2013",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Gangaramani Aarti",
+        "Batch": "2013",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Dongare Pooja Suhas ",
+        "Batch": "2013",
+        "Department": "MSC"
+    },
+    {
+        "Name": "Vivek Sudhir Parab",
+        "Batch": "2013",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Kunal Suryakant Wagh",
+        "Batch": "2014",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Suman Chopra",
+        "Batch": "2014",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sonali Sawant",
+        "Batch": "2014",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Darshana Suresh Ahire",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Hasan Hamid Pathan",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Joshiya Joseph Aricatt",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Priyanka Pradeep Rattu",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shweta Jha",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Supriya Vichare",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Surve Madhura",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Tulslani Dinesh",
+        "Batch": "2014",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Farhan Fayyaz Shaikh",
+        "Batch": "2014",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rishikesh Thakur ",
+        "Batch": "2014",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shiksha Deepak Mishra",
+        "Batch": "2014",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Tushar Pahlaj Wadhwani",
+        "Batch": "2014",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Amit singh",
+        "Batch": "2014",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rahila Khan",
+        "Batch": "2014",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sankalp Thakur",
+        "Batch": "2014",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Tushar Neukar",
+        "Batch": "2014",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Haresh Pawar",
+        "Batch": "2014",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Pote Archana",
+        "Batch": "2014",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Amruta Ashok Nalavade",
+        "Batch": "2014",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Deepak Rai",
+        "Batch": "2014",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Satyapriya Jagannathan",
+        "Batch": "2014",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Shashikant Gupta",
+        "Batch": "2014",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Shashikant Gupta",
+        "Batch": "2014",
+        "Department": "BSc IT"
+    },
+    {
+        "Name": "Priya Daniel",
+        "Batch": "2014",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Chabaria Harsha",
+        "Batch": "2014",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Jajoria Trilokchand",
+        "Batch": "2014",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Meena Prem Sachdev",
+        "Batch": "2014",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Singh Ekta",
+        "Batch": "2014",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Ankita Pandit",
+        "Batch": "2015",
+        "Department": "BA"
+    },
+    {
+        "Name": "Priyanka Sanjay Sarang ",
+        "Batch": "2015",
+        "Department": "BA"
+    },
+    {
+        "Name": "More Jitesh",
+        "Batch": "2015",
+        "Department": "BA ECO"
+    },
+    {
+        "Name": "Priyanka Jaiswal",
+        "Batch": "2015",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Reema Ajay Sapru",
+        "Batch": "2015",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Ritu Sukhvinder Singh Dhami",
+        "Batch": "2015",
+        "Department": "BCOM "
+    },
+    {
+        "Name": "Ragavan Vignesh ",
+        "Batch": "2015",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Shraddha Pathak",
+        "Batch": "2015",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Lall Rahul",
+        "Batch": "2015",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Radhav Kumar Srivastava",
+        "Batch": "2015",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Aniket Pradeep Dicholkar",
+        "Batch": "2015",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Leena Doultani",
+        "Batch": "2015",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Riddhima Sukesh Gangotra",
+        "Batch": "2015",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Shraddha Hareshkumar Mandhyan",
+        "Batch": "2015",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Dharmadhikari Ketakee",
+        "Batch": "2015",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Jyoti Radhakisan Bhor",
+        "Batch": "2015",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Bhakti Ramdas Sakare",
+        "Batch": "2015",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Sushmita Sen",
+        "Batch": "2015",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Badlani Kapil Ram Seema",
+        "Batch": "2015",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vaibhav Suresh Kaginkar",
+        "Batch": "2015",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Yadav Sanjay Horilal",
+        "Batch": "2015",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Verma Dilip",
+        "Batch": "2015",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Rathaur Dhirendra",
+        "Batch": "2016",
+        "Department": "BA SOCIO"
+    },
+    {
+        "Name": "Kanchan Pirdhanani",
+        "Batch": "2016",
+        "Department": "BAMMC"
+    },
+    {
+        "Name": "Jatin Yogesh Singadia",
+        "Batch": "2016",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Thakur Hitesh Singh",
+        "Batch": "2016",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Mohit Mangtani",
+        "Batch": "2016",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rihea Harish Sadarangani",
+        "Batch": "2016",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Gupta Priyanka Jitendra",
+        "Batch": "2016",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Neha Ahuja ",
+        "Batch": "2016",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rajpal Khushboo Jethu",
+        "Batch": "2016",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sneha Girish Bedi ",
+        "Batch": "2016",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Yogesh Tilokchand Lassi",
+        "Batch": "2016",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Divyadarshani B.",
+        "Batch": "2016",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Priyanka Mativar Sharma",
+        "Batch": "2016",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Pushpa Vishwakarma",
+        "Batch": "2016",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rajashree Jayram Date",
+        "Batch": "2016",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Tripathi Shraddha Arun",
+        "Batch": "2016",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Vikrant Prashant Potdar",
+        "Batch": "2016",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Nikhil Poojary",
+        "Batch": "2016",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Jha Vadana Mohan",
+        "Batch": "2016",
+        "Department": "BSC Maths"
+    },
+    {
+        "Name": "Jyotsna Karande",
+        "Batch": "2016",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sah Jayesh Ghanshyam",
+        "Batch": "2016",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Fezza Abbasi ",
+        "Batch": "2016",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Rohit V Murpani",
+        "Batch": "2016",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Arpan Jaiswar",
+        "Batch": "2016",
+        "Department": "MSC CHEM"
+    },
+    {
+        "Name": "Deepak Rajesh Gupta",
+        "Batch": "2016",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Gupta Aditya Rajkumar",
+        "Batch": "2016",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Krupa Naik",
+        "Batch": "2017",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Sanjna Prashant Kamat ",
+        "Batch": "2017",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Moulika Mohan Pande ",
+        "Batch": "2017",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sejal Anilkumar Thakur",
+        "Batch": "2017",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shrived Subash Pawar",
+        "Batch": "2017",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Siddhant Godbole",
+        "Batch": "2017",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Dutta Tama",
+        "Batch": "2017",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Gaurav Naresh Gurdasani",
+        "Batch": "2017",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Ishwar Shrimali ",
+        "Batch": "2017",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Mayur Hemant Jagtap",
+        "Batch": "2017",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Samir Naushad Dawdani",
+        "Batch": "2017",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Debika Gautam Chatterjee",
+        "Batch": "2017",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Parche Kajol Sunil",
+        "Batch": "2017",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Wadhwani Deepak Ganesh",
+        "Batch": "2017",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Anish Anilkumar Menon",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Bhavani Namrata",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Boricha Parth",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Gupta Komal",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Kaur Jasleen",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Narang Ravleen",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Nikhil Patel",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rachani Jitin Mukesh",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Ravishankar Lalitha",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Vikrant Anmol Dorgesh ",
+        "Batch": "2017",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Ansari Shahana Khurshid",
+        "Batch": "2017",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Varma Sushma",
+        "Batch": "2017",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Aditi Tanaji Pawar ",
+        "Batch": "2017",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Mali Vishakha",
+        "Batch": "2017",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Nikhil Babu ",
+        "Batch": "2017",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Dheeraj Ram Narayan Rai",
+        "Batch": "2017",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Priyanka Naik ",
+        "Batch": "2017",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Mandar Sharad Rekha Bhosale",
+        "Batch": "2017",
+        "Department": "BSC MATHS"
+    },
+    {
+        "Name": "Sonaane Supriya",
+        "Batch": "2017",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Lakhani Eshita",
+        "Batch": "2017",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Prabhjyot Singh Gill ",
+        "Batch": "2017",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Sharma Shivani",
+        "Batch": "2017",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Gomathy Hariharan",
+        "Batch": "2017",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Jyothi Iyer",
+        "Batch": "2017",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Neha Tukaram Rane",
+        "Batch": "2017",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Neha Vishwanath Shinde",
+        "Batch": "2017",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Pranali Pradip Tanawade",
+        "Batch": "2017",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Sayali Dilip Shelar",
+        "Batch": "2017",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Rathod ChanderPrakash",
+        "Batch": "2017",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Aswani Kajal Jitender",
+        "Batch": "2018",
+        "Department": "BA"
+    },
+    {
+        "Name": "Payal Varghese",
+        "Batch": "2018",
+        "Department": "BA"
+    },
+    {
+        "Name": "Aalisha Ravikiran Jadhav ",
+        "Batch": "2018",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Kajal Chandni",
+        "Batch": "2018",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Benisha Perumal Nadar",
+        "Batch": "2018",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Bhavika Shamsonder Gnalani",
+        "Batch": "2018",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Nirav Bhushan Wadhani ",
+        "Batch": "2018",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Dubey Namrata Jaiprakash",
+        "Batch": "2018",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shashank R Jaiswal",
+        "Batch": "2018",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Verma Deepak krishna Murari",
+        "Batch": "2018",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Mohit Shyamlal Karira",
+        "Batch": "2018",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sailesh Moti Anuja",
+        "Batch": "2018",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Tezaswini Israni",
+        "Batch": "2018",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Uruba Sayeed ",
+        "Batch": "2018",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Anisha Karan Kumar Dhall",
+        "Batch": "2018",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Gawdi Jayvika Raju",
+        "Batch": "2018",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Rohra Pravin Rajkumar",
+        "Batch": "2018",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sakshi Bharam Bajaj",
+        "Batch": "2018",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Tarun Ramesh Gerela",
+        "Batch": "2018",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Suparna Bhagwani ",
+        "Batch": "2018",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Atharva Haveshwar Kammalkar",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Narya Ganesh Poojary",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Navami Prabhakar Koyande",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Rai Diksha Manoj",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Shinde Nisarga Sangramsimh",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Tejashree Shivram Phepade ",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Riddhi Bhosale",
+        "Batch": "2018",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "T.S.Sharada ",
+        "Batch": "2018",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Aishwarya Sasankan Radha",
+        "Batch": "2018",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Kamrani Kunal Rajkumar",
+        "Batch": "2018",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Siddhali S Tambe",
+        "Batch": "2018",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sonia Santosh Bhekre",
+        "Batch": "2018",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Pritika Khedwal ",
+        "Batch": "2018",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Bhoraokar Omkar Anand",
+        "Batch": "2018",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Elisha Sultan Virani",
+        "Batch": "2018",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Abhinaya Rajendran",
+        "Batch": "2018",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Kunal chagan Bagul",
+        "Batch": "2018",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Vaijayanti Suwasia",
+        "Batch": "2018",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Alok Rajesh Singh",
+        "Batch": "2018",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Bhoomi Vinod Thakkar",
+        "Batch": "2018",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Samruddhi Uday Prabhudesai",
+        "Batch": "2019",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Anjali Harishchand Gupta",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Pooja Dilip Valecha",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sanjay Mahesh Badlani",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Simran H Kukreja",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Tarun Anil nagdev",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sukhwani Tina Kailash Rashmi",
+        "Batch": "2019",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Soni Raj Kishor",
+        "Batch": "2019",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Amzad Mahmood Khan",
+        "Batch": "2019",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kavita Singadiya",
+        "Batch": "2019",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sohail Qurban Khan",
+        "Batch": "2019",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Rahul Ramesh Talreja",
+        "Batch": "2019",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Yogesh Tarun Nagrani ",
+        "Batch": "2019",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Devesh Vijay Vazirani ",
+        "Batch": "2019",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Ahuja Sonam Sunil",
+        "Batch": "2019",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Raghav V Mantri",
+        "Batch": "2019",
+        "Department": "BMS"
+    },
+    {
+        "Name": "S.Kamakshi Ramya Harika Raman",
+        "Batch": "2019",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Viraj Madhusudan Thakur",
+        "Batch": "2019",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Amit Kumar Yadav",
+        "Batch": "2019",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Arneet Kaur Kumar",
+        "Batch": "2019",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Aastha Munjal ",
+        "Batch": "2019",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Anita Salgar",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Bhosale Kishan Madhukar ",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Bind Deepak Kumar Sheshmani",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Chitralekha R Jadhav",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Dipti Vivek Gaikwad",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Harishita Chand",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Jadhav Akshada Govind",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Jaiswal Neha Baiynath",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Javeriya Saleem Sayyed ",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Juhi kumari",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Kabiraj Firdous Nasir",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Kajal Kushwaha",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Kamble Vaishali Baburao",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Khan Saima Anwarul Haque",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Mayuri Maveti Patil",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Mukhtar Imtiyaj Shaikh",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Nibulkar Vidya Nivrutti",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Nidhi Pandey",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Patil Mrunal Anil",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Pevekar Sneha ",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Pooja Kolhapure",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Priti Ware",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Priya Singh",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Priyanka Vinod Kalekar",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Rahim Shaikh",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Razique Khan ",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Rohit Guher",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Rohit Rana ",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Sawant Abhishiek Madan",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Shaikh Nadeem",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Singh Nikita Rakesh",
+        "Batch": "2019",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Gonsalves Tgnatius Philip",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Mishra Shivam Naveen",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Pramod Horilal Yadav",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rohit Shyam Rajani",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Rutuja Sudhir Bane",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Sukanya Sengupta",
+        "Batch": "2019",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Kajal Jagdish Bhatia",
+        "Batch": "2019",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Mahima Suresh Mulani ",
+        "Batch": "2019",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sethi Tarleen kaur ",
+        "Batch": "2019",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Thukral jasleen kaur ranbir singh",
+        "Batch": "2019",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Wadhwa Sumit Sureshlal",
+        "Batch": "2019",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Ambika Parimalakanthan",
+        "Batch": "2019",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Natasha Singh ",
+        "Batch": "2019",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Parvati Parmeshwar Iyer ",
+        "Batch": "2019",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Sakshi Rakesh Punjabi",
+        "Batch": "2019",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Krithika Mahesh Dave",
+        "Batch": "2019",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Ritika Shambhu Singh ",
+        "Batch": "2019",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Karan Gopal Kandhari ",
+        "Batch": "2019",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Naina Dilip Khetpal",
+        "Batch": "2019",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Nitasha Nitin Naik ",
+        "Batch": "2019",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Alvin William Dsouza",
+        "Batch": "2019",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Priyanka Madan Jagasia",
+        "Batch": "2019",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Sayyed Zaifa Haroon",
+        "Batch": "2019",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Zafar Nilofer Iqbal",
+        "Batch": "2019",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Ankita Prakash Khitani",
+        "Batch": "2019",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Ambika Parimalakanthan",
+        "Batch": "2019",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Kasturi Shivaji Pawar",
+        "Batch": "2019",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jayshree A pillai",
+        "Batch": "2020",
+        "Department": "BA"
+    },
+    {
+        "Name": "Shivani K Potedar",
+        "Batch": "2020",
+        "Department": "BA"
+    },
+    {
+        "Name": "Sahil sajjad Shaikh",
+        "Batch": "2020",
+        "Department": "BA Eco"
+    },
+    {
+        "Name": "Sandeep Kaur",
+        "Batch": "2020",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Soumya Sinay Shetty",
+        "Batch": "2020",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Chepuri Rohitkumar ",
+        "Batch": "2020",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Karan Mahesh Sachdev",
+        "Batch": "2020",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Aditya Sonawane",
+        "Batch": "2020",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kshilikumar Mishra",
+        "Batch": "2020",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Punjabi Sapna Govind",
+        "Batch": "2020",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sunny Srichand Khatri",
+        "Batch": "2020",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vaibhav Dharmendra Singh",
+        "Batch": "2020",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jogi Shivanjali Anand Anita",
+        "Batch": "2020",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Yash Vinod sharma",
+        "Batch": "2020",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Roshni Kishinchand Lalwani",
+        "Batch": "2020",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sanskriti Bharat Sinha",
+        "Batch": "2020",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sharma Devesh Shivdutt",
+        "Batch": "2020",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Drishti Sanjay Alreja",
+        "Batch": "2020",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Nitesh Kanayalal Khatwani",
+        "Batch": "2020",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Deepa Shyam Khati",
+        "Batch": "2020",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Rahul Rajaram Thane",
+        "Batch": "2020",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Siddesh Mathur",
+        "Batch": "2020",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sumeet S pawar",
+        "Batch": "2020",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Ghosh Sadipta Sandip",
+        "Batch": "2020",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Malvika Vikas Dalvi",
+        "Batch": "2020",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Rutvik Mohan Gori",
+        "Batch": "2020",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Shenavi Harshada Ekanath",
+        "Batch": "2020",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Khandekar Namrata Sawant",
+        "Batch": "2020",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Shinde Vaibhav Rajendra",
+        "Batch": "2020",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Budhari Girish Amarani",
+        "Batch": "2020",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Dhvani Viral Gandhi",
+        "Batch": "2020",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Divyansh Sanjay Bhatia",
+        "Batch": "2020",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vinay Wadhwa",
+        "Batch": "2020",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Pratiksha Dattatraya Deshmukh",
+        "Batch": "2020",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Apurva Baban Tambe",
+        "Batch": "2020",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Sneha Chandrakant",
+        "Batch": "2020",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Castelino Jyoson John Celine",
+        "Batch": "2020",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Megha Pradeep Purohit",
+        "Batch": "2020",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Megha Purohit",
+        "Batch": "2020",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Natasha Mukesh vachhani",
+        "Batch": "2020",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Rachna Vaswani",
+        "Batch": "2020",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Aparna Sengupta",
+        "Batch": "2020",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Iyer Kaavya Sriram",
+        "Batch": "2020",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Sourabh Santosh Shivalkar",
+        "Batch": "2020",
+        "Department": "SFC"
+    },
+    {
+        "Name": "Akansha P Chemburkar",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Christina Thomas",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Prachi Shivshankar Khandelwal",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sharma Shreya Anil",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Shruti T Tripathi",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sonakshi Gupta",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Yukta Salunke",
+        "Batch": "2020",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Aradhya Das ",
+        "Batch": "2021",
+        "Department": "BA"
+    },
+    {
+        "Name": "Harini Damodaran",
+        "Batch": "2021",
+        "Department": "BA"
+    },
+    {
+        "Name": "Sunariwal Khemchand Radheshyam",
+        "Batch": "2021",
+        "Department": "BA"
+    },
+    {
+        "Name": "Urvi Kishor Patel",
+        "Batch": "2021",
+        "Department": "BA"
+    },
+    {
+        "Name": "Vandana Nair",
+        "Batch": "2021",
+        "Department": "BA"
+    },
+    {
+        "Name": "Anvita Samip Mishra",
+        "Batch": "2021",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Anushree Murthy",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Arbaaz Mohd Umar Khan",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Dabi Jacky Gabbar",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Divesh Deepak Nathani",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Guryani Varsha Satish",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Kanishk singh  ",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Kirti Deepak Keswant",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Pooja Lal Mirani",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Raveena Sunil Karera",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sakshi Ravi Makwana",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Shruti Ravi Bandhale",
+        "Batch": "2021",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Dimpal Rameshbhat Patel",
+        "Batch": "2021",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Rini Kochery",
+        "Batch": "2021",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Shivam Prakash Joshi",
+        "Batch": "2021",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Abhijeet Dilip Choubey",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Abhijit Alok Sarkar",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Ajaykumar Raveendran",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Amit Nenrichandn Balotiya ",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Amrit Kaur Kalsi",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Chawla Ashmit Satpal",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Gohil Sonal Keshav",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jayesh Tukaram Yadav",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Jayshree N Bhagtani",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Joseph Rose Xavier",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kamlesh Kanaiyalal Kewlani",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Manish S Kondhalkar",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Nahida Khatoon Ibadullah Qureshi",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Namrata A Kajale",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Pati Prathamesh Prabhakar",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Seela Shravanti Jayaram",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shaikh Samrin Yusuf",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Shaikh Sanobar",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sharma Subham Ramesh ",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Siddhesh Mukund Deshpande",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Soumil P",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sukhjit Kaur Bath",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vendatum Yogita V",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Wadhwani Nikhil",
+        "Batch": "2021",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Divya Tarachand Choithani",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Mulla Aftab Abbas",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Narayan Girdharilal Peswani",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Nikita Mahesh Mirani",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Rashi Santosh Pedamkar",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Sabir Hidayath Shaikh",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Tasha Inderlal Makhija",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Varun Narang",
+        "Batch": "2021",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Abhay Singh Bist",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Aman Satyanarayan Mistry",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Asmita Mohan Jairamani",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Chaitanya Rajendra Mandewan",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Chippa Sanjana Srinivas",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Garima Pathak",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Harpalani Parth Mukesh",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Khan Mohd kashif",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Koli Amit Vasudev",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Malwade Ketaki Avinash ",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Nagdewani Khushboo Prakash",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Pandey Harsh Rakeshkumar",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Piyush Sunil Ashani",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Pooja Mohan Hemdev",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Pooja Raisinghani",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Pranav Sanjay Bawkar",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Rishil Manish Agarwal",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shaikh Mariya Parvegn",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shetye Rohit Ashok",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sneha Shetty",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sonu Kanatyalal Kodwant",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Sumi Banerjeg",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Thanawalla Akbar",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Viraj Sunil Thakur",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Vyankatesh Vivek Chavan",
+        "Batch": "2021",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Arzoo Ravi Israni",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Farheen Qaizar Husain",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Komal Shankar",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Mukta Anil Sawant",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Vaibhav Menesh Pawar",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Wadhwani Gaurav Jotu",
+        "Batch": "2021",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Chandni Vijayshankar Mishra",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "David Tarini Prasad Sarkar",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Himahal Ridharam Soni",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Irani Nazneen Feroz Zareena",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Kalpesh Umesh Ambre",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Nair Shreeja Shivkumar",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Patil Pushkar Rajesh ",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Patil Vijaya Vithoba",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Prajakta Kishor Koli",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Rajeev Ashok Sharma",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sagar Shyam Ramchanani",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Shaikh Almas Jaffer",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sharma Mridula Sonil",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Tehmina Faizi Shaikh ",
+        "Batch": "2021",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Bharat Babulal Nawal",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Molly Elizabeth Jerom Dsouza",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Payal Chandan Dutta",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Rahul Jaipraksh Gupta",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sanket Prashant Shendre",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Shruti Suresh Karande",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sneha Pathak",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sreelekha Chintaluri",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Suvasia Priyanshi Vishnu",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Vinesh Sahil Kamble",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Vishal Keshar Tathe",
+        "Batch": "2021",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Kamble Rutuja",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Mohit Deepak Premani",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Naveen Bhambaani",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Riddhi Sanjay Singh",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Shaikh Asfiya Anjum",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Shaikh Asfiya Anjum",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Sharon Victor",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Vikram G Poddar",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Yodhlikrishnan Ekambaran",
+        "Batch": "2021",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Ajay Raju Chitara",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Gupta Anjali Mahaprasad",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Jay Hitesh Kapoor",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Kamlesh Puranmal Sakhalkar",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Nirali Bansal Chauhan",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sahil Prakash Lalwani",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Shah Chaitali Anil",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vishakha Rajesh Daryani",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Vrushabh Prakash Chauhan",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Yogita Lakhmilchand Sukhwani",
+        "Batch": "2021",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Khan Ruheg Arif",
+        "Batch": "2021",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Majumdar Samishta",
+        "Batch": "2021",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Pooja Gupta",
+        "Batch": "2021",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Shilpa Omprakash Sunarwal",
+        "Batch": "2021",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Shivani Nimkar",
+        "Batch": "2021",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Vaidehi Poojyam",
+        "Batch": "2021",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Monica Sohanlal Royal",
+        "Batch": "2021",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Nishant Lingayat",
+        "Batch": "2021",
+        "Department": "MA PR"
+    },
+    {
+        "Name": "Aarti Vijay Shamani",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Amruta Arvind Gaikwad",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Anuja Anil Tilak",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Dineua Thakur",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Eshwari Prabhakar Bhoga",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Janhvi R Shetty",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Jessica Sachdev",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Keerthi Shetty ",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Kimaya Khanolkar",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Kulkarni Manali Nitin",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Mahima Dilip Karande",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Mehra Mahek",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Miloni Vimal Thosani",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Patel Sana Akhter",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Poonam Yadav",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Prachi Alpesh Chheda",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Prajakta Dunakhe",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Rohini Kattu",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Sreeta S Nair",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Yash Jayani Anam",
+        "Batch": "2021",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Anmol Lalwani",
+        "Batch": "2021",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Ravi Babulal Dholpuriya",
+        "Batch": "2021",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Arti Jagdish Mangwani",
+        "Batch": "2021",
+        "Department": "MSC CHEM"
+    },
+    {
+        "Name": "Krishnaveni Ramu",
+        "Batch": "2021",
+        "Department": "MSC CHEM"
+    },
+    {
+        "Name": "Sukanya Sudhir Deshmukh",
+        "Batch": "2021",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Akshay Mohan Kotian",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Antra Choudhari",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Arshad Ayub shaikh ",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Charita Koli",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Debnath Pritam Prema",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Dipika Prakash Sonawane",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Harmeet kaur",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Kajal Asrani",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Leena Shrikrishna Khanolkar",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Miloni Thosanj ",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Paras Ramnani",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Prashansa Mishra",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sahil Sejpal",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sharma Meghna Naresh",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Snehalata Kamble",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sujata Rajagopalan",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Surve Sarvesh",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Tannavi Harish Sakhalkar",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Vikas Kaushal",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Viny Velayudhan Prasanna",
+        "Batch": "2021",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Reepika John",
+        "Batch": "2022",
+        "Department": "BA"
+    },
+    {
+        "Name": "Apoorva Satish Gote",
+        "Batch": "2022",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Ishika Vikram Kushalka",
+        "Batch": "2022",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Mallekarv Amuktha Janhavi",
+        "Batch": "2022",
+        "Department": "BA PSY"
+    },
+    {
+        "Name": "Anisha Anil Chanchlani",
+        "Batch": "2022",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Ghosh Joshobroto Probir",
+        "Batch": "2022",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Kanhiya Dilip Khatri",
+        "Batch": "2022",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Mrudanga Sunil Rane",
+        "Batch": "2022",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Vinay Kamal Bhojwani",
+        "Batch": "2022",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Rajeev Kumar Lotwani",
+        "Batch": "2022",
+        "Department": "BAMMC"
+    },
+    {
+        "Name": "Sonar Priti Ramesh",
+        "Batch": "2022",
+        "Department": "BAMMC"
+    },
+    {
+        "Name": "AVISEKH GHOSH",
+        "Batch": "2022",
+        "Department": "BBI"
+    },
+    {
+        "Name": "Aarti Devanand Ahuja",
+        "Batch": "2022",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Gurvinder Kaur Hundal",
+        "Batch": "2022",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sanjana Vivek Pandey",
+        "Batch": "2022",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Tarun Laxmikant Motwani",
+        "Batch": "2022",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Vaishali M Tikhade",
+        "Batch": "2022",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Kulariya Umesh Shankarlal",
+        "Batch": "2022",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Viren Narender Joni",
+        "Batch": "2022",
+        "Department": "BFM"
+    },
+    {
+        "Name": "Ajmal Baig Salatiya",
+        "Batch": "2022",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Kajal Arvind Tirlotkar",
+        "Batch": "2022",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Lal Richa Ramchandra",
+        "Batch": "2022",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Shetty Suchita Suresh Sarika",
+        "Batch": "2022",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Atharva Shailesh Pathare ",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Deepak Parshuram Dialani",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Himanshu Kumar Khitani",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Keshmaya Kishor Khemani ",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Priyanka Dhirendra Bhatia",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sajnani Shivani Sunil ",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Shetty Sharan Suresh",
+        "Batch": "2022",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Kanaujia Anita Phaguraj",
+        "Batch": "2022",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Sanika Sajeev",
+        "Batch": "2022",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Priyanka Rajesh Kurdiya",
+        "Batch": "2022",
+        "Department": "BSC CHEM"
+    },
+    {
+        "Name": "Rohit Vijay Sawant",
+        "Batch": "2022",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Tanmay Sudhir Arulekar",
+        "Batch": "2022",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Arun Gopalkrishnanu",
+        "Batch": "2022",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Chhabria Mohit Sunil",
+        "Batch": "2022",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Gurleen Kaur Matta",
+        "Batch": "2022",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Gurpreet Singh Bal",
+        "Batch": "2022",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Ashish Ananad Shende",
+        "Batch": "2022",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Krutika Hari Rathod",
+        "Batch": "2022",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Pranav Lullan Sharma",
+        "Batch": "2022",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Bhansali Dhvani Vipul",
+        "Batch": "2022",
+        "Department": "MA"
+    },
+    {
+        "Name": "Disha Dinesh Manghwani",
+        "Batch": "2022",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Meghna Jayachandran Menon ",
+        "Batch": "2022",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Priya Sunil Kewalramani",
+        "Batch": "2022",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Rajvi Vinay Sanghvi",
+        "Batch": "2022",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Sara Chavan",
+        "Batch": "2022",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Alisha Ayub Faras",
+        "Batch": "2022",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Varun Shrinivas Nekkanti",
+        "Batch": "2022",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Kumar karthik Mukesh",
+        "Batch": "2022",
+        "Department": "MSC CHEM"
+    },
+    {
+        "Name": "Pooja Arora",
+        "Batch": "2022",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Suvarna Sudhakar Ghodke",
+        "Batch": "2022",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Drishti Sunil Daryanani",
+        "Batch": "2023",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Om Ganesh Dabhane",
+        "Batch": "2023",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Pitale Divyesh Vishwajeet",
+        "Batch": "2023",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Tushar Raju Bajaj",
+        "Batch": "2023",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Sayyed Mohammad Aquib Azad",
+        "Batch": "2023",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Rohit SureshKumar khatri",
+        "Batch": "2023",
+        "Department": "BAMMC"
+    },
+    {
+        "Name": "Sachika Nachiket Mungekar",
+        "Batch": "2023",
+        "Department": "BAMMC"
+    },
+    {
+        "Name": "Rohan Sanjaykumar Bhatia",
+        "Batch": "2023",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sejal Vilas Kadam",
+        "Batch": "2023",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Sanjyot Chetan Mhatre",
+        "Batch": "2023",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Jai Vinod Chhatlani",
+        "Batch": "2023",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Prathmesh Ashish Desai",
+        "Batch": "2023",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Shaikh Saarim Munaf ",
+        "Batch": "2023",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Aditiya Mukesh Rajpal",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Aniroddha Shivaji Borse",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Aryan Prasad",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Jadhav Ishika Uday",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Kunal Dhiraj Chatwani",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Mohak Prem Chhabria",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Shatakshi Arvind Kumar Singh",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Somaiya Ajay jaikishin",
+        "Batch": "2023",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Bauri Anuram",
+        "Batch": "2023",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Ritik Kamlesh Changrani",
+        "Batch": "2023",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Shikha Dinesh Lilwani",
+        "Batch": "2023",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Davis Tania",
+        "Batch": "2023",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Megha Prakash Nair",
+        "Batch": "2023",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Siddharth Ramesh",
+        "Batch": "2023",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Smriti Sunil Hadkar",
+        "Batch": "2023",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Ishitha Satish Kamath",
+        "Batch": "2023",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Samnani Sacomn",
+        "Batch": "2023",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Sneha Shankar Parkar",
+        "Batch": "2023",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Jhanvi Dhiraj Mehta",
+        "Batch": "2023",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Siddiqi Yusuf Amirulla Aasiya",
+        "Batch": "2023",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Dirgha Sunil Meshram",
+        "Batch": "2023",
+        "Department": "MSC MICRO"
+    },
+    {
+        "Name": "Nikhil Dilip Khatri",
+        "Batch": "2024",
+        "Department": "BBA"
+    },
+    {
+        "Name": "Kothari Dhishik Anish",
+        "Batch": "2024",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Pranav Shishir Garge",
+        "Batch": "2024",
+        "Department": "BSC BT"
+    },
+    {
+        "Name": "Janhavi Vasudev Palav",
+        "Batch": "2024",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Om Chandrasekhar Prasad",
+        "Batch": "2024",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Panchal Dhruv Kishor",
+        "Batch": "2024",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Viraj Vijay Chandugade",
+        "Batch": "2024",
+        "Department": "BSC CS"
+    },
+    {
+        "Name": "Manasi sandeep Nandrajog",
+        "Batch": "2024",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sunaina Subrata Bhunia ",
+        "Batch": "2024",
+        "Department": "BSC MICRO"
+    },
+    {
+        "Name": "Saumya Anjula Chaudhary",
+        "Batch": "2024",
+        "Department": "MA PSY"
+    },
+    {
+        "Name": "Vivek  Warbhuwan",
+        "Batch": "2024",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "Vaishnavi Vilas Sawant",
+        "Batch": "2025",
+        "Department": "BSC DSDA"
+    },
+    {
+        "Name": "Oberoi Prathna Mohan",
+        "Batch": "-",
+        "Department": "-"
+    },
+    {
+        "Name": "Laveti Mohina Jagdish Kumar",
+        "Batch": "-",
+        "Department": "-"
+    },
+    {
+        "Name": "Bhavesh Dinesh Hotwani",
+        "Batch": "-",
+        "Department": "BCOM"
+    },
+    {
+        "Name": "Prachi ramjeet gupta ",
+        "Batch": "NIL",
+        "Department": "BA"
+    },
+    {
+        "Name": "Prachi Ramjeet Gupta ",
+        "Batch": "NIL",
+        "Department": "BA"
+    },
+    {
+        "Name": "Richa Sharma",
+        "Batch": "NIL",
+        "Department": "BA ECO"
+    },
+    {
+        "Name": "Simran Pamnani",
+        "Batch": "NIL",
+        "Department": "BAF"
+    },
+    {
+        "Name": "Modi Greeshma Manoj",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Mohit Jadhwani ",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "More Pratik",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Navin Rajkumar Dingwani",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Tejas Rajiv Olar ",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Twinkle Kukreja",
+        "Batch": "NIL",
+        "Department": "BMM"
+    },
+    {
+        "Name": "Chirag Yogesh Chellani",
+        "Batch": "NIL",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Malhotra Yash Naresh",
+        "Batch": "NIL",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Narendra Moryani",
+        "Batch": "NIL",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Sanjay Subhaskumar Motwani",
+        "Batch": "NIL",
+        "Department": "BMS"
+    },
+    {
+        "Name": "Anil Kumar",
+        "Batch": "NIL",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Sangeeta Kewalramani",
+        "Batch": "NIL",
+        "Department": "BSC"
+    },
+    {
+        "Name": "Milind Thakker",
+        "Batch": "NIL",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "Sneha Niranjan Khatri",
+        "Batch": "NIL",
+        "Department": "BSC IT"
+    },
+    {
+        "Name": "More Harish Vijay",
+        "Batch": "NIL",
+        "Department": "BSC PHY"
+    },
+    {
+        "Name": "Harsh Rajendra Sonawane",
+        "Batch": "NIL",
+        "Department": "MCOM"
+    },
+    {
+        "Name": "A.G. Aruljodi J.A. Gerorge",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Abdul Reshma Allabaksh",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Amarjeet Singh Gulati",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Ambalalthandi Umapati",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Aradhnya Prasad",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Ashok Pal",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Belinda Dokras",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Bhushan V Kamble",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Chandani Visaria",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Chandini C Nair ",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Deepak Shankar Kamble",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Doshi Twinkley ",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Garg Pooja Krishnkumar",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Gayatri Govindrajan",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Harleen Kaur",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Heena Shankarlal Kukreja",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Hemant Pawar",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jagwanti Daksh Dilip ",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jaiswal Mitu",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jasmit Kaur Inderpal Singh",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jatin Prakash Punjabi",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jism Mauwana",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Jyoti Prakash Rajpal",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Kapil Varadarajan",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Madhwa Pravin Kambli",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Mayukh Gupta ",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Mulla Muzammil Abbas",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Muskan Prakash Changani",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Ninad Bhide",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Omkar Sagari",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Patil Mithun Gouwdhan",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Pratiksha Pradeep Desai",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Rahul Prabhu Lalwani",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Rohit Pakashlal Wadhwani",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Saini jasprit ",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sakshi Gadge",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sanghavi Sural",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sarkar Nanita",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sasitha Kutty",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Satlay Mhaske",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Shweta Ahire",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Siddhi Sethi",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Singh Jitendra",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sourabh Bhushan Shrivastava",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sunil Padave",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Surekha Mahesh Malhotra",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Sushms Mohandas",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Thandiyl Ashwathi",
+        "Batch": "NIL",
+        "Department": "NIL"
+    },
+    {
+        "Name": "Veena Vengopal",
+        "Batch": "NIL",
+        "Department": "NIL"
+    }
+]
